@@ -11,8 +11,7 @@
 
 # 📊 GitHub Stats:
 <div style="display:flex;justify-content:space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=soheil-jalili&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-jalili&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soheil-jalili&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-jalili&theme=dark&hide_border=false"/>
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soheil-jalili&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
