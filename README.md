@@ -3,6 +3,11 @@
 <p align="left">
 </p>
 
+<style>
+.stats{
+   display : flex;
+}
+</style>
 
 
 <h3 align="left">Languages and Tools:</h3>
