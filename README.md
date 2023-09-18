@@ -10,7 +10,7 @@
 
 
 # 📊 GitHub Stats:
-<div style="display:flex;justify-content:space-between">
+<div style="display:flex !important;justify-content:space-between !important">
   <img src="https://github-readme-stats.vercel.app/api?username=soheil-jalili&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-jalili&theme=dark&hide_border=false"/>
 </div>
