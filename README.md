@@ -10,8 +10,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=soheil-jalili&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=soheil-jalili&theme=dark&hide_border=false)<br/>
+
+<div style="display:flex;justify-content:space-around;">     
+   
+  
+  ![](https://github-readme-stats.vercel.app/api?username=soheil-jalili&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=soheil-jalili&theme=dark&hide_border=false)
+  
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soheil-jalili&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
