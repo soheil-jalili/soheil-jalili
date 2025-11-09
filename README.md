@@ -22,7 +22,6 @@
 <p align="center">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-line.svg" alt="Django REST Framework" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
   <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
@@ -30,8 +29,6 @@
   <a href="https://pub.dev/packages/get"><img src="https://img.shields.io/badge/GetX-35BE76?style=flat-square&logo=flutter&logoColor=white" alt="GetX" width="40" height="40"/></a>
 </p>
 
-### 🚀 Projects
-- [Snake Game](https://github.com/soheil-jalili/snake-game) – Classic Snake game built with Flutter &amp; GetX (cross-platform mobile). 
 
 ### 🔬 About Me
 Passionate full-stack developer skilled in both **front-end** (HTML/CSS/JS, React/Next) and **back-end** (Python, Django, DRF, PostgreSQL). I enjoy building creative projects like the Snake game above.
