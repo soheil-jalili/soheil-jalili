@@ -25,13 +25,11 @@
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
   <a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://pub.dev/packages/flutter_bloc"><img src="https://img.shields.io/badge/BLoC-0175C2?style=flat-square&logo=flutter&logoColor=white" alt="BLoC (Flutter)" width="40" height="40"/></a>
-  <a href="https://pub.dev/packages/get"><img src="https://img.shields.io/badge/GetX-35BE76?style=flat-square&logo=flutter&logoColor=white" alt="GetX" width="40" height="40"/></a>
 </p>
 
 
 ### 🔬 About Me
-Passionate full-stack developer skilled in both **front-end** (HTML/CSS/JS, React/Next) and **back-end** (Python, Django, DRF, PostgreSQL). I enjoy building creative projects like the Snake game above.
+Passionate full-stack developer skilled in both **front-end** (HTML/CSS/JS, React/Next) and **back-end** (Python, Django, DRF, PostgreSQL). I enjoy building creative projects.
 
 ### 📊 GitHub Stats
 <p align="center">
