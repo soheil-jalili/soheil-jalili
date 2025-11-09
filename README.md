@@ -41,16 +41,3 @@ Passionate full-stack developer skilled in both **front-end** (HTML/CSS/JS, Reac
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheil-jalili&theme=tokyonight&layout=compact" alt="Top Languages"/>
 </p>
-
-### 🎮 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soheil-jalili/soheil-jalili/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soheil-jalili/soheil-jalili/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/soheil-jalili/soheil-jalili/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=soheil-jalili&icon=0&color=0" alt="Visitor Count"/></a>
-</p>
